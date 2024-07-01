@@ -11,28 +11,22 @@ fundamental machine learning algorithm, and this project provides hands-on exper
 developing, evaluating, and interpreting a predictive model.
 
 Key Concepts and Challenges:
-Data Collection: Obtain a dataset with numerical features and a target variable for
+1.Data Collection: Obtain a dataset with numerical features and a target variable for
 prediction.
-1.
 
-Data Exploration and Cleaning: Explore the dataset to understand its structure, handle
+2.Data Exploration and Cleaning: Explore the dataset to understand its structure, handle
 missing values, and ensure data quality.
-2.
 
 3.Feature Selection: Identify relevant features that may contribute to the predictive model.
 
-Model Training: Implement linear regression using a machine learning library (e.g., Scikit-
+4.Model Training: Implement linear regression using a machine learning library (e.g., Scikit-
 Learn).
 
-4.
-
-Model Evaluation: Evaluate the model's performance on a separate test dataset using
+5.Model Evaluation: Evaluate the model's performance on a separate test dataset using
 metrics such as Mean Squared Error or R-squared.
-5.
 
-Visualization: Create visualizations to illustrate the relationship between the predicted and
+6.Visualization: Create visualizations to illustrate the relationship between the predicted and
 actual values.
-6.
 
 Learning Objectives:
 Understanding of linear regression concepts.
